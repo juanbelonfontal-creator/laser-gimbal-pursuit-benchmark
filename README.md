@@ -5,12 +5,7 @@ classical controller, tabular Q-learning, a DQN, a CNN, or a staged hybrid?**
 I built the rig, measured all of them on the same hardware, and published the
 data.
 
-<!-- VIDEO GOES HERE.
-     Do NOT use ![](media/demo.mp4) -- that renders a dead link, not a player.
-     GitHub only plays video uploaded through its own editor: open this file on
-     github.com, click the pencil icon, put the cursor on this line and DRAG
-     media/demo.mp4 into the edit box. GitHub uploads it and inserts a URL that
-     renders as a real player. Then delete this comment. -->
+
 
 ![The rig](media/rig.jpg)
 
