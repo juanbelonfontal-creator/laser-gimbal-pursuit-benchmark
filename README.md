@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/85b82594-3472-4b5a-9d3a-5717e21512dc
+
 # Laser Gimbal Pursuit Benchmark
 
 **Which control law best aims a laser at a moving target — a hand-tuned
